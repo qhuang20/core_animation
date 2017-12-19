@@ -54,8 +54,8 @@
 		7BEBAFD81FE8B3BA002EAEB1 /* core_animation */ = {
 			isa = PBXGroup;
 			children = (
-				7BEBAFD91FE8B3BA002EAEB1 /* AppDelegate.swift */,
 				7BEBAFDB1FE8B3BA002EAEB1 /* ViewController.swift */,
+				7BEBAFD91FE8B3BA002EAEB1 /* AppDelegate.swift */,
 				7BEBAFDD1FE8B3BA002EAEB1 /* Main.storyboard */,
 				7BEBAFE01FE8B3BA002EAEB1 /* Assets.xcassets */,
 				7BEBAFE21FE8B3BA002EAEB1 /* LaunchScreen.storyboard */,
